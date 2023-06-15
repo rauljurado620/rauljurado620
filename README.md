@@ -8,7 +8,6 @@
 
 - 👯 I’m looking to collaborate on **on building mobile development.**
 
-- 📫 How to reach me **rauljurado620@gmail.com**
 
 </br>
 
