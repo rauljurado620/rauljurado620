@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋,  I'm Raul Jurado from Herndon, VA.</h1>
-<h3 align="center">As a highly skilled and experienced Mobile Developer, I have a thorough understanding of mobile application development for both the Android and iOS platforms.</h3> </br> </br>
-
+<h1 align="center">Hi there!  I'm Raul Jurado from Herndon, VA.</h1>
+<h3 align="center">As a highly skilled and experienced Mobile Developer, I have a thorough understanding of mobile application development for both the Android and iOS platforms.</h3> </br></br>
 
 - 🔭 I’m currently looking for **Mobile projects.**
 
