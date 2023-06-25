@@ -3,6 +3,15 @@
 
 - 🔭 I’m currently looking for **Mobile projects.**
 
+  - Mobile Platforms: iOS, Android, Cross-Platform
+  - Native Development: iOS, Android, Performance Optimization
+  - Cross-Platform Development: React Native, Flutter
+  - UI/UX Design: Mobile Design Principles, UI Frameworks, Responsive Design
+  - Backend Integration: RESTful APIs, Authentication and Authorization, Push Notifications
+  - Data Persistence: Local Storage, Offline Capabilities
+  - Testing and Debugging: Unit Testing, Debugging
+  - DevOps and Deployment: App Store Submission, Continuous Integration/Deployment (CI/CD), Version Control
+
 - 🌱 I’m currently learning **backend development.**
 
 - 👯 I’m looking to collaborate on **on building mobile development.**
